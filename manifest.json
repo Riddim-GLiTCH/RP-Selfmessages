@@ -1,20 +1,22 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "tech.hacked-your.n14.SelfMessages",
+  "name": "RP-Selmessages",
+  "description": "A port of BD-SelfMessages",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Riddim_GLiTCH",
+    "discordID": "801089753038061669",
+    "github": "Riddim_GLiTCH"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "Riddim_GLiTCH/RP-SelfMessages"
   },
-  "license": "MIT",
+  "license": "See Readme.md",
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
-  "source": "https://github.com/replugged-org/plugin-template",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "source": "https://github.com/Riddim_GLiTCH/RP-SelfMessages",
+  "image": [
+    "https://media.discordapp.net/attachments/834529693549723669/1149009185200160808/image.png"
+  ]
 }
