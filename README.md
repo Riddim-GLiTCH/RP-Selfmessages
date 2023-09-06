@@ -1,11 +1,7 @@
-# Replugged plugin template
+# RP-Selfemssages
 
-See the [plugin development guide](https://guide.replugged.dev/docs/plugins/getting-started) for
-more information on using this template.
+An attempt to port BD-Selfmessages to Replugged. This will likely never work, but its worth a shot.
 
 # License
 
-The [plugin template](https://github.com/replugged-org/plugin-template) is licensed under the
-[MIT](https://opensource.org/license/mit/) license. However, addons using this template are not
-necessarily licensed under MIT. Developers are encouraged to add a license file to their repository,
-but if none exists, the repository should be considered as unlicensed.
+I dont fucking know how this shit works. Just give credit or something.
